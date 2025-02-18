@@ -12,9 +12,9 @@ const App = () => {
       <div className='app'>
         <Navbar/>
         <Routes>
-          <Route path='/' element={<Home/>} />
-          <Route path='/cart' element={<Cart/>} />
-          <Route path='/order' element={<PlaceOrder/>} />
+          <Route path='/IO-24_appWEB-PetrenkoAndrew-FIOT-2025/' element={<Home/>} />
+          <Route path='/IO-24_appWEB-PetrenkoAndrew-FIOT-2025/cart' element={<Cart/>} />
+          <Route path='/IO-24_appWEB-PetrenkoAndrew-FIOT-2025/order' element={<PlaceOrder/>} />
         </Routes>
       </div>
       <Footer />
