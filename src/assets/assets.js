@@ -5,6 +5,12 @@ import rating_star from './rating_star.svg'
 import facebook from './facebook.svg'
 import instagram from './instagram.svg'
 import twitter from './twitter-x.svg'
+import add_icon from './add_icon.svg'
+import add_icon_green from './add_icon_green.svg'
+import remove_icon_red from './remove_icon_red.svg'
+import play_store from './play_store.png'
+import app_store from './app_store.png'
+import cross_icon from './cross_icon.svg'
 
 import menu_1 from './menu_1.svg'
 import menu_2 from './menu_2.svg'
@@ -30,7 +36,13 @@ export const assets = {
     rating_star,
     facebook,
     instagram,
-    twitter
+    twitter,
+    add_icon,
+    add_icon_green,
+    remove_icon_red,
+    play_store,
+    app_store,
+    cross_icon
 }
 
 export const menu_list = [
