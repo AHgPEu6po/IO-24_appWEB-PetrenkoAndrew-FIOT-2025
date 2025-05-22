@@ -1,0 +1,26 @@
+.table-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .table-title {
+    color: #676767;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .custom-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .custom-table th, .custom-table td {
+    border: 1px solid #ffbb00;
+    padding: 10px;
+  }
+  
+  .custom-table th {
+    background-color: #ffbb00;
+    color: #676767;
+  }
+  
